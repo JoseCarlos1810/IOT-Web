@@ -18,7 +18,7 @@ h1 {
 }
 
 button {
-  background-color: #ff5d5d;
+  background-color: #00ff08;
   border: 2px solid #000000;
   border-radius: 10px;
   padding: 10px 20px;
@@ -31,10 +31,11 @@ button {
 }
 
 button:hover {
-  background-color: #e60012;
+  background-color: #21b20e;
   color: white;
 }
 
 #mario {
     width:100px;
+
 }
