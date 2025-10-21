@@ -1,0 +1,40 @@
+body {
+  background-color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  margin-top: 40px;
+}
+
+h1 {
+  color: #000000;
+}
+
+.main {
+  margin: 20px auto;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  background-color: #ff5d5d;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  padding: 10px 20px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #e60012;
+  color: white;
+}
+
+#mario {
+    width:100px;
+}
