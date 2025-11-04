@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffff;
+  background-color: #cc00ff;
   font-family: "Poppins", sans-serif;
   text-align: center;
   margin-top: 40px;
@@ -14,11 +14,11 @@ h1 {
 }
 
 .buttons {
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 button {
-  background-color: #00ff08;
+  background-color: #ffffff;
   border: 2px solid #000000;
   border-radius: 10px;
   padding: 10px 20px;
@@ -28,14 +28,20 @@ button {
   font-size: 16px;
   font-weight: bold;
   transition: 0.3s;
+} 
+
+button img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
 }
 
 button:hover {
-  background-color: #21b20e;
+  background-color: #000000;
   color: white;
 }
 
 #mario {
-    width:100px;
-
+  width: 150px;
+  height: 150px;
 }
